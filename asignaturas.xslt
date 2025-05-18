@@ -53,6 +53,10 @@
             </tr>
           </xsl:for-each>
         </table>
+<video width="640" height="360" controls style="display:block; margin: 20px auto;">
+  <source src="videos/espresso.mp4" type="video/mp4"/>
+  Tu navegador no soporta el elemento de video.
+</video>
       </body>
     </html>
   </xsl:template>
