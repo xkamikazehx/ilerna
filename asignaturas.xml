@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="asignaturas.xslt"?>
+<asignaturas>
+  <asignatura>
+    <nombre>Entornos</nombre>
+    <pac_desarrollo>ko</pac_desarrollo>
+    <pacs>ok</pacs>
+    <nota_examen></nota_examen>
+  </asignatura>
+  <asignatura>
+    <nombre>Digitalizacion</nombre>
+    <pac_desarrollo>ok</pac_desarrollo>
+    <pacs>ok</pacs>
+    <nota_examen></nota_examen>
+  </asignatura>
+  <asignatura>
+    <nombre>Diseño Web</nombre>
+    <pac_desarrollo>ok</pac_desarrollo>
+    <pacs>ok</pacs>
+    <nota_examen></nota_examen>
+  </asignatura>
+  <asignatura>
+    <nombre>Ingles</nombre>
+    <pac_desarrollo>ko</pac_desarrollo>
+    <pacs>ko</pacs>
+    <nota_examen></nota_examen>
+  </asignatura>
+  <asignatura>
+    <nombre>Lenguajes</nombre>
+    <pac_desarrollo>ok</pac_desarrollo>
+    <pacs>ok</pacs>
+    <nota_examen></nota_examen>
+  </asignatura>
+  <asignatura>
+    <nombre>Programación B</nombre>
+    <pac_desarrollo>ok</pac_desarrollo>
+    <pacs>ok</pacs>
+    <nota_examen></nota_examen>
+  </asignatura>
+  <asignatura>
+    <nombre>Sostenibilidad</nombre>
+    <pac_desarrollo>ko</pac_desarrollo>
+    <pacs>ok</pacs>
+    <nota_examen></nota_examen>
+  </asignatura>
+</asignaturas> 
